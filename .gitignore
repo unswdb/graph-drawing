@@ -1,0 +1,7 @@
+*.pdf
+*.txt
+.idea/
+.ipynb_checkpoints/
+
+res
+res1
