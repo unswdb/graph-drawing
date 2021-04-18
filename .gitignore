@@ -2,6 +2,6 @@
 *.txt
 .idea/
 .ipynb_checkpoints/
-
+.DS_Store
 res
 res1
